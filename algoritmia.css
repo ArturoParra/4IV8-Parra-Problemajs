@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(rgba(29, 29, 29, 0.5) 0%, rgba(29, 29, 29,.50) 100%), url(18.jpg);
+    
+}
+
+/*----- Div -----*/
+div{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 4px solid rgb(0, 255, 255);
+    border-radius: 7px;
+    font-size: 20px;
+    color: #fde400;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+div h4{
+    color: #fde400;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+div h3{
+    color: #fde400;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+div label{
+    margin-left: 42%;
+}
+div pre{
+    margin-left: 27%;
+}
+div input{
+    width: 11%;
+}
+/*
+⠀⠀⠀⡠⠖⠛⢛⠩⢍⣉⠉⢉⡻⠷⠶⠶⠶⣤⢤⣀⠀⠀⠀
+⠀⠀⢀⡜⠁⠀⡨⡠⠓⠀⠀⠀⠆⠀⠀⢐⠂⠀⠢⠄⠈⢳⠀⠀
+⠀⣠⡾⠄⠀⠠⡀⣶⣿⣿⣯⡓⣤⠀⢀⣠⣴⣶⣶⠄⠀⠈⠣⡄
+⡼⠉⡴⠉⣩⡑⠲⠤⠖⠁⠀⢈⡁⠀⠀⢹⡀⠀⠤⡴⡒⠪⠊⢹
+⠰⣠⡣⠉⢳⣈⠑⡦⠤⣍⣁⠯⠵⠦⢀⣀⠝⠓⠠⣀⣿⡄⢕⡞
+⠀⠙⣆⠀⠀⢻⡙⡿⢶⣤⣼⡉⠙⢳⠒⢲⠒⠒⡏⣹⣹⡇⢸⠀
+⠀⠀⠘⢦⡀⠀⠉⠣⣄⣠⠏⠙⠛⡿⠿⢿⠿⣿⢿⢿⣿⠃⢸⠀
+⠀⠀⠀⠀⠙⠮⣂⠔⡠⠉⡓⠲⠤⠧⠤⠼⠤⠧⠾⠚⠋⠀⢸⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠓⠮⣄⠘⠂⠄⠀⠐⠒⠒⠂⠁⠀⠀⢸⠀
+              ⠉⠒⠒⠲⠤⢤⣀⣀⣀⠤⠃
+*/
